@@ -28,6 +28,19 @@ The Speech-to-Text Converter is a speech recognition application that converts s
 4. The recognized speech is converted into text.
 5. The transcribed text is displayed to the user.
 
+## Input
+
+An audio recording containing spoken words.
+
+**Example:**
+Audio: "Hello, welcome to our college."
+
+## Output
+
+**Transcribed Text:**
+"Hello, welcome to our college."
+
+
 ## Applications
 
 * Audio transcription
